@@ -15,4 +15,8 @@
     <None Include=".LinqPad\NeuralNetworkLinqPad.linq" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\AnnFunctions\" />
+  </ItemGroup>
+
 </Project>
